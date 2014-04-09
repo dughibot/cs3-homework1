@@ -1,1 +1,2 @@
 This file is NOT empty.
+this is a second line.
